@@ -2,6 +2,7 @@ Wykorzystujemy dwie biblioteki:
 ```
 matplotlib
 tkinter
+math
 ```
 
 Widok programu od razu po starcie
